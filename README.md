@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanchiang0710
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in Artificial intelligence
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me : you can't
 
